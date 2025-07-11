@@ -55,10 +55,5 @@ Il sistema consente di:
 
 ## ⚠️ Pattern Facade – Non Implementato
 
-Per scelta consapevole, il **pattern Facade** non è stato implementato in quanto il flusso dell’applicazione è già ben gestito e leggibile tramite `Main.java`.  
-Tuttavia, la sua integrazione sarebbe semplice in futuro per astrarre ulteriormente la logica di gioco.
 
 ---
-
-## 📁 Struttura del Progetto
-
