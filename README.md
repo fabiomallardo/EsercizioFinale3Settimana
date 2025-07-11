@@ -1,4 +1,3 @@
-# EsercizioFinale3Settimana
 
 # Esercizio Finale – Settimana 3: Sistema Utenti Dragon Ball Edition
 
